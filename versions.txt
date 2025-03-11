@@ -1,0 +1,5 @@
+pip install urllib3
+pip install python-telegram-bot
+pip install tensorflow
+pip install numpy
+pip install scikit-learn
